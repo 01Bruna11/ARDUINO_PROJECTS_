@@ -1,1 +1,1 @@
-Projeto arduino com leds e sons respectivos. 
+Projeto programados no arduino - tinkercard - em c++. 
